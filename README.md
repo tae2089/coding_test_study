@@ -79,4 +79,4 @@ ex) [BOJ-01] 코드 수정
 2. 사이트 약어는 다음과 같습니다.
     1. 백준 - `BOJ`
     2. 프로그래머스 - `PRO`
-    3. leecode - `LEE`
+    3. leetcode - `LEET`
