@@ -66,9 +66,9 @@ def bfs(ra, rb, ba, bb): # r = red, b= blue
 rx, ry, bx, by = 0,0,0,0
 for i in range(n):
   for j in range(m):
-    if graph[i][j] =='R':
+    if board[i][j] =='R':
       rx, ry = i, j
-    if graph[i][j]=='B':
+    if board[i][j]=='B':
       bx, by = i, j
 
 bfs(rx, ry, bx, by)
